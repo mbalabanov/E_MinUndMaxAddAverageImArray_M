@@ -22,8 +22,8 @@ und gib damit die Werte des übergebenen primitiven Array mit allen initialisier
 am Bildschirm aus.
 
 Hilfe:
-1.) double add(double[]myArray)
-2.) double min(double[]myArray)
-3.) double max(double[]myArray)
-4.) double average(double[]myArray)
-5.) void ausgabe(double[]ergebnis)
+1. double add(double[]myArray)
+2. double min(double[]myArray)
+3. double max(double[]myArray)
+4. double average(double[]myArray)
+5. void ausgabe(double[]ergebnis)
